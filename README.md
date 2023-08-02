@@ -1,16 +1,15 @@
-### Hi there 👋
+<H1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi! This is Chloe, Welcome to read "ME" </H1>
 
-<!--
-**chloehywong/chloehywong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About ![](https://www.codewars.com/users/chloehywong/badges/small)
+- 🇬🇧 I am from Hong Kong but based in London.
+- 🎨 I am working in luxury fashion but love doing Web Design & Coding.
+- 👩🏻‍💻 I am a ready-to-be Frontend Developer.
+- 📖 I am freelancing and learning React currently. 
 
-Here are some ideas to get you started:
+Checkout my [CV](https://drive.google.com/file/d/1R9Vq1JcH_1Mw36-y_ZCW6DleBT14ZLhv/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
