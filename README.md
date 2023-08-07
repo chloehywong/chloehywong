@@ -7,9 +7,8 @@
 - 🇬🇧 I am based in London.
 - 🤍 I love doing Web Design & Coding.
 - 👩🏻‍💻 I am a ready-to-be Frontend Developer.
-- 🤓 I am freelancing and learning React currently. 
-
-Checkout my [CV](https://drive.google.com/file/d/1R9Vq1JcH_1Mw36-y_ZCW6DleBT14ZLhv/view?usp=sharing)
+- 🤓 I am freelancing and learning React currently.
+- 👉🏻 Here's my [CV](https://drive.google.com/file/d/1R9Vq1JcH_1Mw36-y_ZCW6DleBT14ZLhv/view?usp=sharing) 
 
 
 
