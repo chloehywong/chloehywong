@@ -1,4 +1,4 @@
-<H1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hi! This is Chloe <img src="https://media.giphy.com/media/NMBl7NxAlPDrOgq6aQ/giphy.gif" width="70"></H1>
+<H1><img src="./assets/wave.gif" height="30px"> Hi! This is Chloe <img src="./assets/cat-greeting.webp" width="70"></H1>
 
 
 <a href='https://www.linkedin.com/in/chloehy-wong/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
