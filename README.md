@@ -11,7 +11,7 @@
 - 🤍 I love doing Web Design & Coding.
 - 👩🏻‍💻 I am a ready-to-be Frontend Developer.
 - 🤓 I am freelancing and learning React currently.
-- 📋 Here's my [CV](https://drive.google.com/file/d/1dAIyDRvP8aAiS8KEuvgiinrkWaiotRcu/view?usp=sharing)
+- 📋 Here's my <a href='https://drive.google.com/file/d/1dAIyDRvP8aAiS8KEuvgiinrkWaiotRcu/view?usp=sharing' target="blank">CV</a>
 - 👉🏻 Check My [Projects](https://chloehywong-personal-site.netlify.app/) 
 
 ## Skills & Languages
