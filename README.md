@@ -12,7 +12,8 @@
 - 👩🏻‍💻 I am a ready-to-be Frontend Developer.
 - 🤓 I am freelancing and learning React currently.
 - 📋 Here's my <a href='https://drive.google.com/file/d/1dAIyDRvP8aAiS8KEuvgiinrkWaiotRcu/view?usp=sharing' target="_blank">CV</a>
-- 👉🏻 Check My <a href='https://chloehywong-personal-site.netlify.app/' target='_blank'>Projects</a>
+- 👉🏻 Check my <a href='https://chloehywong-personal-site.netlify.app/' target='_blank'>UX & Coding Projects</a>
+- 🎨 Check out my UI design <a href='https://dribbble.com/Chloewong0114' target="_blank"></a>
 
 ## Skills & Languages
 <img align="left" alt="HTML" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
